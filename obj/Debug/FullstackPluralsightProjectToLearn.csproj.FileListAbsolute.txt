@@ -77,3 +77,10 @@ C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsight
 C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\obj\Debug\FullstackPluralsightProjectToLearn.Migrations.PopulateGenresTAble1.resources
 C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\obj\Debug\FullstackPluralsightProjectToLearn.Migrations.AddForeignkeyPropertiesToGig.resources
 C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\obj\Debug\FullstackPluralsightProjectToLearn.Migrations.AddNameToApplicationUser.resources
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\obj\Debug\FullstackPluralsightProjectToLearn.Migrations.AddAttendance.resources
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\bin\System.Net.Http.Formatting.dll
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\bin\System.Web.Http.dll
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\bin\System.Web.Http.WebHost.dll
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\bin\System.Net.Http.Formatting.xml
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\bin\System.Web.Http.xml
+C:\Users\janki.chotai\Documents\Visual Studio 2015\Projects\FullstackPluralsightProjectToLearn\FullstackPluralsightProjectToLearn\bin\System.Web.Http.WebHost.xml
